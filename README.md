@@ -1,2 +1,2 @@
-# gci_rust
+# gci_19
 task for CCExtractor by tkp
